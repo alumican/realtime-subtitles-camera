@@ -32,6 +32,11 @@ Microsoft Cognitive ServicesのUnity用SDK。Mac非対応。
 
 > The Speech SDK for Unity is packaged as a Unity asset package (.unitypackage). Download it from here.
 
+## フォント「しねきゃぷしょん」
+フォントはなんでもよいが、でもで使用しているフォントを利用する場合は、以下のファイルをダウンロードして Assets/Fonts に展開する
+
+https://www.dropbox.com/s/m1iic14a1j8h2vy/Fonts.zip?dl=0
+
 # 必要な外部アプリケーション
 
 ## Spout
