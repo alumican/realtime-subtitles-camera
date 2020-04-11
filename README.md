@@ -68,6 +68,8 @@ UnityからSpout映像をZoomなどのウェブカメラ入力として繋ぐた
 
 StartからStopまでの時間でAPIを消化するので、Stopのし忘れにご注意ください。
 
+SnapCameraと組み合わせる場合は、Unityの設定画面のデバイス選択で`Snap Camera`を選択してください。
+
 # 参考になりそうなリンク
 
 [Microsoft Azure の無料アカウントを作ってみた
