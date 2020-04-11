@@ -33,7 +33,7 @@ Microsoft Cognitive ServicesのUnity用SDK。Mac非対応。
 > The Speech SDK for Unity is packaged as a Unity asset package (.unitypackage). Download it from here.
 
 ## フォント「しねきゃぷしょん」
-フォントはなんでもよいのですが、デモで使用している再配布可能なフォント「しねきゃぷしょん」をTextMesh Proで利用可能なアトラス化したものを用意したので、それを利用する場合は以下のファイルをダウンロードして Assets/Fonts に展開する
+フォントは何でもよいのですが、デモで使用している再配布可能なフォント「しねきゃぷしょん」をTextMesh Proで利用可能なアトラス化したものを用意したので、それを利用する場合は以下のファイルをダウンロードして Assets/Fonts に展開する
 
 https://www.dropbox.com/s/m1iic14a1j8h2vy/Fonts.zip?dl=0
 
