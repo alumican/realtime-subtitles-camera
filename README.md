@@ -2,9 +2,11 @@
 
 > オンラインだからできること何かないかなと思って、英語を日本語に、日本語を英語にリアルタイム翻訳して字幕をつけてZoomとかに参加できるシステムを作ってみた。
 
-![screenshot](https://user-images.githubusercontent.com/172811/79047898-73326100-7c54-11ea-8f61-84c492d4d30e.png)
+動画あり
 
 https://twitter.com/alumican_net/status/1248871338745319425
+
+![screenshot](https://user-images.githubusercontent.com/172811/79047898-73326100-7c54-11ea-8f61-84c492d4d30e.png)
 
 以下、必要最低限の説明
 
