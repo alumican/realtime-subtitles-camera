@@ -16,7 +16,7 @@ https://twitter.com/alumican_net/status/1248871338745319425
 
 ## TextMesh Pro
 
-字幕表示用
+リッチな字幕表示用に利用していますが、UnityのデフォルトのTextでも可能です。
 
 ## Klak Spout
 
