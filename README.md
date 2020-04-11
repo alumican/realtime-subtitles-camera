@@ -63,7 +63,8 @@ UnityからSpout映像をZoomなどのウェブカメラ入力として繋ぐた
 2. スペースキーを押して設定画面を表示する
 3. APIキー入力、リージョン入力、デバイス選択、モード選択（日→英 or 英→日）をおこない、Startボタンを押す
 4. スペースキーを押して設定画面を閉じる
-5. 終了時は設定画面を開いてStopボタンを押すか、プレビューを終了する
+5. Zoomなどのカメラで`Spout Cam`を選択するとUnityのカメラ映像がストリーミングされる
+6. 終了時は設定画面を開いてStopボタンを押すか、プレビューを終了する
 
 StartからStopまでの時間でAPIを消化するので、Stopのし忘れにご注意ください。
 
@@ -79,3 +80,5 @@ StartからStopまでの時間でAPIを消化するので、Stopのし忘れに�
 [リージョンとエンドポイント](https://docs.microsoft.com/ja-jp/azure/cognitive-services/speech-service/rest-speech-to-text#regions-and-endpoints)
 
 [Sample Repository for the Microsoft Cognitive Services Speech SDK](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+
+[Unity内のカメラをZoomのカメラとして使う方法](https://qiita.com/yukihiko_a/items/81883d2a01af6e4637e5)
