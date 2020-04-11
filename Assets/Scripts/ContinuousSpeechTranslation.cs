@@ -1,5 +1,11 @@
-﻿// Sample Reference
-// https://docs.microsoft.com/en-us/dotnet/api/microsoft.cognitiveservices.speech.translation.translationrecognizer?view=azure-dotnet
+﻿/**
+ContinuousSpeechTranslation
+
+Copyright (c) 2020 Yukiya Okuda
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+*/
 
 using System.Threading.Tasks;
 using UnityEngine;
