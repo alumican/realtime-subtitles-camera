@@ -15,18 +15,9 @@ https://twitter.com/alumican_net/status/1248871338745319425
 - Windows 10
 - Unity 2019.3.8f1
 - ウェブカメラ
+― マイク
 
 # 必要なUnity Asset
-
-## TextMesh Pro
-
-リッチな字幕表示用に利用していますが、UnityのデフォルトのTextでも可能です。
-
-## Klak Spout
-
-Unityのカメラを、Spout形式で出力するために必要です。
-
-[こちら](https://github.com/keijiro/KlakSpout)からダウンロードします。
 
 ## Speech SDK
 
@@ -35,6 +26,16 @@ Microsoft Cognitive ServicesのUnity用SDKです。Mac非対応。
 [こちら](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/csharp/unity/from-microphone)の中段の以下のリンクからダウンロード可能です。
 
 > The Speech SDK for Unity is packaged as a Unity asset package (.unitypackage). Download it from here.
+
+## Klak Spout
+
+Unityのカメラ映像を他のアプリの入力として扱うために、Spoutという形式で出力します。そのために必要なAssetになります。
+
+[こちら](https://github.com/keijiro/KlakSpout)からダウンロードします。
+
+## TextMesh Pro
+
+リッチな字幕表示用に利用していますが、UnityのデフォルトのTextでも可能です。
 
 ## フォント「しねきゃぷしょん」
 フォントは何でもよいのですが、デモで使用している再配布可能なフォント「しねきゃぷしょん」をTextMesh Proで利用可能なアトラス化したものを用意したので、それを利用する場合は以下のファイルをダウンロードして`Assets/Fonts`に展開します。
