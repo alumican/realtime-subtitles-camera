@@ -15,7 +15,7 @@ https://twitter.com/alumican_net/status/1248871338745319425
 - Windows 10
 - Unity 2019.3.8f1
 - ウェブカメラ
-― マイク
+- マイク
 
 # 必要なUnity Asset
 
